@@ -4,7 +4,7 @@ Careerly offers three essential tools in one platform to help job seekers advanc
 
 
 <p align="center">
-    <img src="https://i.imgur.com/S0BWA4l.png" alt="Careerly Banner" style="width: 80%; height: auto;">
+    <img src="https://i.imgur.com/S0BWA4l.png" alt="Careerly Banner" style="width: 100%; height: auto;">
 </p>
 
 ---
@@ -25,23 +25,23 @@ Official Site: https://try-careerly.vercel.app/
 ## <a name="seven"></a>📋 Project Information
 
 **Disclaimer:**  
-The original repository, made by our team, is hosted as a private repository on GitLab. As it poses a security risk, we decided to clone the repository and showcase the source code in our portfolios instead.
+The original repository, made by our team, is hosted as a private repository on GitLab. As it poses a security risk, I decided to clone the repository to showcase the source code here.
 
 This project was developed between November and December 2024.
 
 ### **Our Team**
 
-- **Sean Dustin Verano** (*Full Stack Developer*)  
-  Team Leader, overseeing the project; Lead development of AI Interview Prep, overall UI Designer, and manages the database
+- **Sean Dustin Verano** (*Full Stack Developer*) | [LinkedIn](https://www.linkedin.com/in/sdverano/) 
+<br>Team Leader, overseeing the project; Lead development of AI Interview Prep, overall UI Designer, and manages the database
 
-- **Ivan Patrick Prejoles** (*Full Stack Developer*)  
-   Lead development of Tailored Job Matches and implemented both frontend and backend for two APIs related to the feature
+- **Ivan Patrick Prejoles** (*Full Stack Developer*)
+<br>Lead development of Tailored Job Matches and implemented both frontend and backend for two APIs related to the feature
 
-- **Patrick Dilen Reyes** (*Backend Developer*)  
-  Lead development of User Authentication, implemented backend
+- **Patrick Dilen Reyes** (*Backend Developer*) | [LinkedIn](https://www.linkedin.com/in/ivan-patrick-prejoles/)
+<br>Lead development of User Authentication, implemented backend
   
-- **Einon Cris Alcantara** (*Frontend Developer*)  
-  Lead development of Resume Builder
+- **Einon Cris Alcantara** (*Frontend Developer*) | [LinkedIn](https://www.linkedin.com/in/einon-cris-alcantara-6623b52bb/) 
+<br>Lead development of Resume Builder
   
 ---
 
