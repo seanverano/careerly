@@ -34,10 +34,10 @@ This project was developed between November and December 2024.
 - **Sean Dustin Verano** (*Full Stack Developer*) | [LinkedIn](https://www.linkedin.com/in/sdverano/) 
 <br>Team Leader, overseeing the project; Lead development of AI Interview Prep, overall UI Designer, and manages the database
 
-- **Ivan Patrick Prejoles** (*Full Stack Developer*)
+- **Ivan Patrick Prejoles** (*Full Stack Developer*) | [LinkedIn](https://www.linkedin.com/in/ivan-patrick-prejoles/)
 <br>Lead development of Tailored Job Matches and implemented both frontend and backend for two APIs related to the feature
 
-- **Patrick Dilen Reyes** (*Backend Developer*) | [LinkedIn](https://www.linkedin.com/in/ivan-patrick-prejoles/)
+- **Patrick Dilen Reyes** (*Backend Developer*) 
 <br>Lead development of User Authentication, implemented backend
   
 - **Einon Cris Alcantara** (*Frontend Developer*) | [LinkedIn](https://www.linkedin.com/in/einon-cris-alcantara-6623b52bb/) 
