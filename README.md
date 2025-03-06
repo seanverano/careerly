@@ -2,6 +2,11 @@
 
 Careerly offers three essential tools in one platform to help job seekers advance their careers with ease and confidence. Users can build their resume effortlessly, practice interviews with AI feedback, or find job matches tailored to them.
 
+
+<p align="center">
+    <img src="https://i.imgur.com/S0BWA4l.png" alt="Careerly Banner" style="width: 80%; height: auto;">
+</p>
+
 ---
 
 ## **🧭 Navigation**
@@ -19,7 +24,8 @@ Careerly offers three essential tools in one platform to help job seekers advanc
 
 ## <a name="seven"></a>📋 Project Information
 
-This is a backup/cloned repo of our team's project. The main repo is hosted on GitLab and is currently private for security purposes (leaked API key).
+**Disclaimer:**  
+The original repository, made by our team, is hosted as a private repository on GitLab. As it poses a security risk, we decided to clone the repository and showcase the source code in our portfolios instead.
 
 This project was developed between November and December 2024.
 
@@ -133,7 +139,7 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 
 ### **1. Clone the repository:**
    ```bash
-   git clone https://gitlab.com/uplift-code-camp/students/batch-22/grouping/projects/group-4.git
+   git clone https://github.com/seanverano/careerly.git
    ```
 
 ### **2. Install dependencies:**
