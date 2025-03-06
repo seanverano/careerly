@@ -1,4 +1,4 @@
-# **Careerly**
+# **Careerly | try-careerly.vercel.app**
 
 Careerly offers three essential tools in one platform to help job seekers advance their careers with ease and confidence. Users can build their resume effortlessly, practice interviews with AI feedback, or find job matches tailored to them.
 
