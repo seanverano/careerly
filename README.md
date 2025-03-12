@@ -10,7 +10,7 @@ Careerly offers three essential tools in one platform to help job seekers advanc
 ---
 
 ## **🧭 Navigation**
-Official Site: https://try-careerly.vercel.app/
+
 - [📋 Project Information](#seven)
 - [❓ The Problem](#one)
 - [🏛️ Technical Architecture](#two)
@@ -24,10 +24,16 @@ Official Site: https://try-careerly.vercel.app/
 
 ## <a name="seven"></a>📋 Project Information
 
+### **Links**
+
+- **Private Source Code (Original)**: https://gitlab.com/uplift-code-camp/students/batch-22/grouping/projects/group-4
+- **Official Site**: https://try-careerly.vercel.app/
+- **Public Source Code**: https://github.com/seanverano/careerly
+
 **Disclaimer:**  
 The original repository, made by our team, is hosted as a private repository on GitLab. As it poses a security risk, I decided to clone the repository to showcase the source code here.
 
-This project was developed between November and December 2024.
+Careerly was our final bootcamp project at Uplift Code Camp, built collaboratively as a team between November and December 2024.
 
 ### **Our Team**
 
