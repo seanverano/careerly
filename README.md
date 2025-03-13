@@ -29,6 +29,7 @@ Careerly offers three essential tools in one platform to help job seekers advanc
 - **Private Source Code (Original)**: https://gitlab.com/uplift-code-camp/students/batch-22/grouping/projects/group-4
 - **Official Site**: https://try-careerly.vercel.app/
 - **Public Source Code**: https://github.com/seanverano/careerly
+- **Demo Video & Preview**: https://www.youtube.com/watch?v=UxlkN8WpmL8
 
 **Disclaimer:**  
 The original repository, made by our team, is hosted as a private repository on GitLab. As it poses a security risk, I decided to clone the repository to showcase the source code here.
@@ -84,14 +85,14 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 
 ## <a name="three"></a>🌟 Key Features
 
-### **Feature 1: Resume Builder**
+### **Resume Builder**
 
 - **Instant Preview**: Instantly view changes made to the resume as you input details.
 - **Downloadable PDF**: Easily export the resume in a professional PDF format.
 - **User-Friendly Template**: Access to intuitive UI template and forms for smooth data input.
 - **Fully Mobile Responsive**: Seamlessly use this feature on any device, with a responsive layout that adapts to all screen sizes.
 
-### **Feature 2: AI Interview Prep**
+### **AI Interview Prep**
 
 - **Real-Time Voice-to-Text Conversion**: Seamlessly transcribe spoken answers for evaluation.
 - **AI-Powered Evaluation**: Analyze answers for quality and relevance using Google's Gemini API.
@@ -99,7 +100,7 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 - **Detailed Feedback Generation**: Actionable insights (rating and feedback) for better preparation.
 - **Fully Mobile Responsive**: Seamlessly use this feature on any device, with a responsive layout that adapts to all screen sizes.
 
-### **Feature 3: Tailored Job Matches**
+### **Tailored Job Matches**
 
 - **Custom Job Preferences**: Set job title, skills, experience level, salary range, and preferred locations to refine job search results.
 - **Job Search Results**: View job listings based on your personalized preferences with the click of a button.
