@@ -26,10 +26,10 @@ Careerly offers three essential tools in one platform to help job seekers advanc
 
 ### **Links**
 
-- **Private Source Code (Original)**: https://gitlab.com/uplift-code-camp/students/batch-22/grouping/projects/group-4
-- **Official Site**: https://try-careerly.vercel.app/
-- **Public Source Code**: https://github.com/seanverano/careerly
-- **Demo Video & Preview**: https://www.youtube.com/watch?v=UxlkN8WpmL8
+- 🔗[**Private Source Code (Original)**](https://gitlab.com/uplift-code-camp/students/batch-22/groupin/projects/group-4)
+- 🔗[**Official Website**](https://try-careerly.vercel.app/)
+- 🔗[**Public Source Code**](https://github.com/seanverano/careerly)
+- 🔗[**Demo Video & Preview**](https://www.youtube.com/watch?v=UxlkN8WpmL8)
 
 **Disclaimer:**  
 The original repository, made by our team, is hosted as a private repository on GitLab. As it poses a security risk, I decided to clone the repository to showcase the source code here.
@@ -92,6 +92,10 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 - **User-Friendly Template**: Access to intuitive UI template and forms for smooth data input.
 - **Fully Mobile Responsive**: Seamlessly use this feature on any device, with a responsive layout that adapts to all screen sizes.
 
+<p align="center">
+    <img src="https://i.imgur.com/ilHgV4F.png" alt="Resume Builder Preview" style="width: 80%; height: auto;">
+</p>
+
 ### **AI Interview Prep**
 
 - **Real-Time Voice-to-Text Conversion**: Seamlessly transcribe spoken answers for evaluation.
@@ -100,12 +104,20 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 - **Detailed Feedback Generation**: Actionable insights (rating and feedback) for better preparation.
 - **Fully Mobile Responsive**: Seamlessly use this feature on any device, with a responsive layout that adapts to all screen sizes.
 
+<p align="center">
+    <img src="https://i.imgur.com/Jgdhjpb.png" alt="AI Interview Prep Preview" style="width: 80%; height: auto;">
+</p>
+
 ### **Tailored Job Matches**
 
 - **Custom Job Preferences**: Set job title, skills, experience level, salary range, and preferred locations to refine job search results.
 - **Job Search Results**: View job listings based on your personalized preferences with the click of a button.
 - **Direct Access to Job Boards**: Easily access job listings on platforms like Glassdoor, LinkedIn, and Indeed with a simple click.
 - **Fully Mobile Responsive**: Seamlessly use this feature on any device, with a responsive layout that adapts to all screen sizes.
+
+<p align="center">
+    <img src="https://i.imgur.com/D4Zp64V.png" alt="Tailored Job Matches Preview" style="width: 80%; height: auto;">
+</p>
 
 ---
 
@@ -120,7 +132,7 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 | GET  | `/api/v1/auth/profile` | Get the authenticated user’s profile     |
 | POST | `/api/v1/auth/logout` | Log out the user     |
 
-### **Feature 2: AI Interview Prep**
+### **AI Interview Prep**
 
 | Method | Endpoint                | Description           |
 | ------ | ----------------------- | --------------------- |
@@ -132,7 +144,7 @@ A streamlined solution is needed to help job seekers spend more time focusing on
 | GET    | `/api/v1/interviews/:id`        | Get interview details       |
 | POST   | `/api/v1/interviews/:id/answer` | Submit an answer for review |
 
-### **Feature 3: Tailored Job Matches**
+### **Tailored Job Matches**
 
 | Method | Endpoint                        | Description                 |
 | ------ | ------------------------------- | --------------------------- |
@@ -240,7 +252,19 @@ VITE_API_BACKEND_URL=http://localhost:1017
 
 - **Mobile App Development**: While Careerly is fully mobile-responsive and scalable on smaller screens, a dedicated mobile app would be great.
 
+---
 
+
+## <a name="nine"></a>⚖️ License
+
+This project is licensed under the MIT License, see the [**LICENSE**](https://github.com/seanverano/careerly/blob/master/LICENSE) file for details.
+
+---
+
+
+## <a name="four"></a>🤝 Contributing
+
+This project is open for contributions! Feel free to submit issues and pull requests.
 
 
 
